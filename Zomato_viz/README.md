@@ -24,11 +24,11 @@ Data size : 20 MB , 7000 .csv files, 85k rows
 
 ## Tableau visualizations
 
-Pune : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Pune/Dashboard1
-Mumbai : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Mumbai/Dashboard1
-Delhi/NCR : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Delhi_NCR/Dashboard1
-Bengaluru : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Bengaluru/Dashboard1
-All_four : https://public.tableau.com/app/profile/vimal.rathod/viz/ZomatoMajorfour/Dashboard1
+Pune : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Pune/Dashboard1<br/>
+Mumbai : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Mumbai/Dashboard1<br/>
+Delhi/NCR : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Delhi_NCR/Dashboard1<br/>
+Bengaluru : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Bengaluru/Dashboard1<br/>
+All_four : https://public.tableau.com/app/profile/vimal.rathod/viz/ZomatoMajorfour/Dashboard1<br/>
 
 
 
