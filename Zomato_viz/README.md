@@ -22,7 +22,8 @@ Data size : 20 MB , 7000 .csv files, 85k rows
 ## Project files
 `Collating and segregating raw data` : The file contains python script to reduce the size of data (less number of files) and make it appropriate for analysis.
 
-##Tableau visualizations
+## Tableau visualizations
+
 Pune : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Pune/Dashboard1
 Mumbai : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Mumbai/Dashboard1
 Delhi/NCR : https://public.tableau.com/app/profile/vimal.rathod/viz/Zomato_Delhi_NCR/Dashboard1
